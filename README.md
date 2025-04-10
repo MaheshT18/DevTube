@@ -30,8 +30,8 @@ Welcome to **DevTube**, a modern video streaming platform that empowers you to c
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/devtube.git
-    cd devtube
+    git clone (https://github.com/MaheshT18/DevTube)
+    cd DevTube
     ```
 
 2. **Install Dependencies**
