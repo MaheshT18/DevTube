@@ -95,6 +95,15 @@ Welcome to **DevTube**, a modern video streaming platform that empowers you to c
 - **LinkedIn:** (https://www.linkedin.com/in/maheshtolanur/)  
 - **Email:** (tolanurmahesh085@gmail.com)
 
+---
+## 🎬 Project Demo Video
+
+Watch the working demo of **DevTube** in action! 
+
+https://github.com/user-attachments/assets/4399e355-fd98-4a94-bb31-f2fb1e144454
+
+---
+
 If you enjoy DevTube, please ⭐ the repo and share it with your network.
 
 ---
