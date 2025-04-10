@@ -1,4 +1,4 @@
-# 📺 DevTube - Your Video Platform
+# DevTube - Your Video Platform
 
 Welcome to **DevTube**, a modern video streaming platform that empowers you to create, manage, and share videos with ease. Dive in and start building your video community today!
 
@@ -30,8 +30,8 @@ Welcome to **DevTube**, a modern video streaming platform that empowers you to c
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/devtube.git
-    cd devtube
+    git clone (https://github.com/MaheshT18/DevTube)
+    cd DevTube
     ```
 
 2. **Install Dependencies**
@@ -94,6 +94,15 @@ Welcome to **DevTube**, a modern video streaming platform that empowers you to c
 
 - **LinkedIn:** (https://www.linkedin.com/in/maheshtolanur/)  
 - **Email:** (tolanurmahesh085@gmail.com)
+
+---
+## 🎬 Project Demo Video
+
+Watch the working demo of **DevTube** in action! 
+
+https://github.com/user-attachments/assets/4399e355-fd98-4a94-bb31-f2fb1e144454
+
+---
 
 If you enjoy DevTube, please ⭐ the repo and share it with your network.
 
