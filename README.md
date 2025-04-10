@@ -1,4 +1,4 @@
-# 📺 DevTube - Your Video Platform
+# DevTube - Your Video Platform
 
 Welcome to **DevTube**, a modern video streaming platform that empowers you to create, manage, and share videos with ease. Dive in and start building your video community today!
 
